@@ -10,7 +10,7 @@ DQN 3.0
 This project contains the source code of DQN 3.0, a Lua-based deep reinforcement
 learning architecture, necessary to reproduce the experiments
 described in the paper "Human-level control through deep reinforcement
-learning", Nature 518, 529–533 (26 February 2015) doi:10.1038/nature14236.
+learning".
 
 To replicate the experiment results, a number of dependencies need to be
 installed, namely:
